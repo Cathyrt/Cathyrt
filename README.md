@@ -32,8 +32,8 @@
 
 </td><td valign="top" width="50%">
 
-<div align="center">!
- [10 Things I Learned From the 'Tech-Formation' Run the World Women-in-Tech Conference](https://github.com/Cathyrt/Cathyrt/assets/110995939/5bb52a88-2ed7-4e41-a168-de25f5f89eeb)
+<div align="center">
+  ![img 1](https://github.com/Cathyrt/Cathyrt/assets/110995939/2aa6e7c0-d4d0-40b2-9afa-444c0e3cf76a)
 </div>  
 
 
