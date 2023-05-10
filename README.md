@@ -33,7 +33,6 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-  ![img 1](https://github.com/Cathyrt/Cathyrt/assets/110995939/2aa6e7c0-d4d0-40b2-9afa-444c0e3cf76a)
 </div>  
 
 
