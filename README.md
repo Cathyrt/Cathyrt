@@ -32,8 +32,8 @@
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="![Hi, I'm Cathrine](./images/Hi,%20I'm%20Cathrine.png)" align="center" style="width: 100%" />
+<div align="center">!
+ [10 Things I Learned From the 'Tech-Formation' Run the World Women-in-Tech Conference](https://github.com/Cathyrt/Cathyrt/assets/110995939/5bb52a88-2ed7-4e41-a168-de25f5f89eeb)
 </div>  
 
 
