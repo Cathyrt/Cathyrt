@@ -35,7 +35,7 @@
 <div align="center">
 </div>  
 
-<img src="https://images.app.goo.gl/rXAXz25L7DLvENEi8" />
+<img src="https://www.hyperakt.com/assets/images/girls-who-code/GWC_Hero_2021-02-04-173029.svg" />
 </td></tr></table>  
 
 <br/>  
